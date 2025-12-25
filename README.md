@@ -1,6 +1,6 @@
 # Solana Development
 
-This repository is entirely dedicated to **:contentReference[oaicite:0]{index=0} development**.
+This repository is entirely dedicated to Solana Development.
 
 It serves as a workspace for learning, experimenting, and understanding how Solana programs (smart contracts) and client applications are built using the native Solana toolchain and ecosystem.
 
